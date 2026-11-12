@@ -31,7 +31,6 @@ export const content: SiteContent = {
     subtitle:
       "الزبون بيمسح الـ QR على الطاولة، وبيشوف أصنافك بصورها وأسعارها. وإذا تغيّرت الأسعار، بتتعدّل فوراً بدون ما تطبع من جديد.",
     primaryCta: { label: "اطلب منيو لمطعمك", href: whatsapp },
-    secondaryCta: { label: "جرّب المنيو", href: "#demo" },
   },
 
   problem: {

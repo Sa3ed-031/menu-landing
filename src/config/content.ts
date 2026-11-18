@@ -8,6 +8,7 @@ export const content: SiteContent = {
     title: "منيو إلكتروني لمطعمك | Sa3ed Lab",
     description:
       "منيو إلكتروني بـ QR لمطعمك أو الكافيه تبعك. بدون طباعة، وبتعدّل الأسعار بأي وقت.",
+    url: "https://sa3ed-031.github.io/menu-landing",
     lang: "ar",
     dir: "rtl",
   },

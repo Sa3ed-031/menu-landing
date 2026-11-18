@@ -21,6 +21,7 @@ export type SiteMeta = {
   name: string;
   title: string;
   description: string;
+  url: string;
   lang: "ar" | "en";
   dir: "rtl" | "ltr";
 };
